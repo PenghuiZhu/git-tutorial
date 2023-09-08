@@ -1,2 +1,3 @@
 console.log('index.js')
-console.log('version2 star')
+console.log('version3 star')
+ 
